@@ -1,2 +1,11 @@
+LOG:
+
+240928：
 CV_ZilongTang_github_v1_240928
+
+241107
 CV_ZilongTang_github_v1_241107
+
+250710
+ZilongTang_academic CV-HKU-v1
+Update HKU information and email address
